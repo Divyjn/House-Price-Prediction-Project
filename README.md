@@ -36,11 +36,11 @@ Here's what you'll find in this repository:
 
 # 🛠️ Technologies Used
 
-### 💻 R
+## 💻 R
 - **Packages**: `ggplot2`, `randomForest`, `caret`, `shiny`, and more.
 - Used for data cleaning, exploratory analysis, and predictive modeling.
 
-### 📊 Power BI
+## 📊 Power BI
 - **Interactive Dashboards**: Created to provide a clear, visual representation of house price data.
 - **Key Features**: Dynamic filtering, trend analysis, and geographical maps.
 
@@ -62,13 +62,13 @@ Here's what you'll find in this repository:
 
 # 🖥️ Screenshots & Visuals
 
-### 📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 ![Sample Dashboard](https://via.placeholder.com/900x500?text=House+Price+Prediction+Dashboard)
 *Interactive dashboard for analyzing housing data by location, features, and trends.*
 
 ---
 
-### 📈 R Analysis
+## 📈 R Analysis
 **Feature Importance Plot:**  
 ![Feature Importance Plot](https://via.placeholder.com/900x500?text=Feature+Importance+in+House+Prices)
 
@@ -98,13 +98,13 @@ install.packages(c("ggplot2", "randomForest", "caret", "shiny"))
 
 ---
 
-📊 Power BI Report Link
+# 📊 Power BI Report Link
 
 Access our interactive Power BI report here: [House Price Prediction Dashboard]
 
 ---
 
-🤝 Contributors
+# 🤝 Contributors
 
 👤 Divy Jain  
 Role: Data Analysis, Predictive Modeling, Documentation  
@@ -116,7 +116,7 @@ GitHub | LinkedIn
 
 ---
 
-📚 References
+# 📚 References
 
 - Dataset Source: Kaggle - Ames Housing Dataset
 (A comprehensive dataset containing 79 explanatory variables describing nearly every aspect of residential homes in Ames, Iowa.)
@@ -124,7 +124,7 @@ GitHub | LinkedIn
 
 ---
 
-✨ What's Next?
+# ✨ What's Next?
 
 - Expanding the dataset to include more diverse locations.
 - Adding advanced machine learning algorithms for improved predictions.
