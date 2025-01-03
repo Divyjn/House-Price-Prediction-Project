@@ -31,8 +31,7 @@ Here's what you'll find in this repository:
 📂House-Price-Prediction-Project  
 │  
 ├── 📂R_Shiny  
-│   ├── web_app.R                 
-# Shiny app  
+│   ├── web_app.R                 # Shiny app  
 │   ├── predictive_modeling.R     # Machine learning models  
 │   ├── feature_importance.R      # Feature importance analysis  
 │  
