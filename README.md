@@ -93,3 +93,4 @@ Our predictive model achieved a high accuracy rate, with an **R² of 0.9845** an
 R_Shiny folder.
 
 3. Install the required R packages:
+install.packages(c("ggplot2", "randomForest", "caret", "shiny"))
