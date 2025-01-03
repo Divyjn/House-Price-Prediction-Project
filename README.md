@@ -15,11 +15,11 @@ We aim to provide insights into housing market trends, identify influential fact
 
 ---
 
-#📷 Project Overview
+# 📷 Project Overview
 
 ---
 
-#📌 Objectives
+# 📌 Objectives
 
 1. **Analyze Housing Market Trends**: Study historical housing data to observe patterns over time.
 2. **Highlight Key Insights**: Visualize insights using interactive graphs and charts.
@@ -28,13 +28,13 @@ We aim to provide insights into housing market trends, identify influential fact
 
 ---
 
-#📂 Project Structure
+# 📂 Project Structure
 
 Here's what you'll find in this repository:
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 ### 💻 R
 - **Packages**: `ggplot2`, `randomForest`, `caret`, `shiny`, and more.
@@ -46,7 +46,7 @@ Here's what you'll find in this repository:
 
 ---
 
-## 🌟 Highlights of Our Analysis
+# 🌟 Highlights of Our Analysis
 
 1. **Key Factors Affecting House Prices**:
    - Location, square footage, number of bedrooms, and proximity to amenities were identified as top predictors.
@@ -60,7 +60,7 @@ Here's what you'll find in this repository:
 
 ---
 
-## 🖥️ Screenshots & Visuals
+# 🖥️ Screenshots & Visuals
 
 ### 📊 Power BI Dashboard
 ![Sample Dashboard](https://via.placeholder.com/900x500?text=House+Price+Prediction+Dashboard)
