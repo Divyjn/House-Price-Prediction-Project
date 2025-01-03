@@ -6,7 +6,7 @@ We aim to provide insights into housing market trends, identify influential fact
 
 ---
 
-🚀 Features
+# 🚀 Features
 
 - Interactive Dashboards: Explore housing data dynamically with Power BI dashboards.
 - Data Analysis in R: Perform statistical analysis and predictive modeling for accurate price prediction.
