@@ -33,6 +33,7 @@ We aim to provide insights into housing market trends, identify influential fact
 ## 📂 Project Structure
 
 Here's what you'll find in this repository:
+
 📂 House-Price-Prediction-Project  
 ├── 📂 R_Shiny                        # R scripts for data analysis and modeling  
 │   ├── web_app.R                     # Interactive Shiny app  
