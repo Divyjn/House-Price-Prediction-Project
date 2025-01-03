@@ -15,10 +15,6 @@ We aim to provide insights into housing market trends, identify influential fact
 
 ---
 
-# 📷 Project Overview
-
----
-
 # 📌 Objectives
 
 1. **Analyze Housing Market Trends**: Study historical housing data to observe patterns over time.
@@ -95,12 +91,6 @@ Our predictive model achieved a high accuracy rate, with an **R² of 0.9845** an
 install.packages(c("ggplot2", "randomForest", "caret", "shiny"))
 
 4. Run the scripts to perform analysis or use the interactive Shiny app.
-
----
-
-# 📊 Power BI Report Link
-
-Access our interactive Power BI report here: [House Price Prediction Dashboard]
 
 ---
 
