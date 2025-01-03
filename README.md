@@ -15,11 +15,11 @@ We aim to provide insights into housing market trends, identify influential fact
 
 ---
 
-📷 Project Overview
+#📷 Project Overview
 
 ---
 
-📌 Objectives
+#📌 Objectives
 
 1. **Analyze Housing Market Trends**: Study historical housing data to observe patterns over time.
 2. **Highlight Key Insights**: Visualize insights using interactive graphs and charts.
@@ -28,7 +28,7 @@ We aim to provide insights into housing market trends, identify influential fact
 
 ---
 
-📂 Project Structure
+#📂 Project Structure
 
 Here's what you'll find in this repository:
 
