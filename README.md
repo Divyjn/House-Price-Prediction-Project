@@ -50,6 +50,7 @@ User-Friendly Interface: A clean and accessible layout that caters to both begin
 Here's what you'll find in this repository:
 
 📂 House-Price-Prediction
+
 ├── 📊 PowerBI_Dashboard.pbix         # Power BI file with interactive dashboards
 ├── 📁 R_Shiny                        # R scripts used for data analysis and modeling
 │   ├── web_app.R                     # Interactive Shiny app
