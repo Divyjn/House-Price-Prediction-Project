@@ -117,7 +117,7 @@ GitHub | LinkedIn
 
 📚 References
 
-- Dataset Source: [Kaggle - Ames Housing Dataset]
+- Dataset Source: Kaggle - Ames Housing Dataset
 (A comprehensive dataset containing 79 explanatory variables describing nearly every aspect of residential homes in Ames, Iowa.)
 - Inspiration: Real-world data projects and housing market studies.
 
