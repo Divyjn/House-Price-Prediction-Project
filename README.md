@@ -108,7 +108,7 @@ Access our interactive Power BI report here: [House Price Prediction Dashboard]
 
 👤 Divy Jain  
 Role: Data Analysis, Predictive Modeling, Documentation  
-GitHub | LinkedIn
+https://www.linkedin.com/in/divy-jain-845175256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | LinkedIn
 
 👤 Gaurav Sharma  
 Role: Data Visualization, Dashboard Design  
