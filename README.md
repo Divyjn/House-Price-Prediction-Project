@@ -92,3 +92,39 @@ Our predictive model achieved a high accuracy rate, with an **R² of 0.9845** an
 2. Open RStudio and load the scripts from the R_Shiny folder.
 
 3. Install the required R packages:
+
+4. Run the scripts to perform analysis or use the interactive Shiny app.
+
+---
+
+📊 Power BI Report Link
+
+Access our interactive Power BI report here: [House Price Prediction Dashboard]
+
+---
+
+🤝 Contributors
+
+👤 Divy Jain  
+Role: Data Analysis, Predictive Modeling, Documentation  
+GitHub | LinkedIn
+
+👤 Gaurav Sharma  
+Role: Data Visualization, Dashboard Design  
+GitHub | LinkedIn
+
+---
+
+📚 References
+
+- Dataset Source: [Kaggle - Ames Housing Dataset]
+(A comprehensive dataset containing 79 explanatory variables describing nearly every aspect of residential homes in Ames, Iowa.)
+- Inspiration: Real-world data projects and housing market studies.
+
+---
+
+✨ What's Next?
+
+- Expanding the dataset to include more diverse locations.
+- Adding advanced machine learning algorithms for improved predictions.
+- Developing a web application for public use.
