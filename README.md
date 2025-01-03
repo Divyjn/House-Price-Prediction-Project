@@ -31,3 +31,58 @@ We aim to provide insights into housing market trends, identify influential fact
 📂 Project Structure
 
 Here's what you'll find in this repository:
+
+---
+
+🛠️ Technologies Used
+
+- **R**
+  - Packages: ggplot2, randomForest, caret, shiny, and more.
+  - Used for data cleaning, exploratory analysis, and predictive modeling.
+
+- **Power BI**
+  - Interactive Dashboards: Created to provide a clear, visual representation of house price data.
+  - Key Features: Dynamic filtering, trend analysis, and geographical maps.
+
+---
+
+🌟 Highlights of Our Analysis
+
+1. **Key Factors Affecting House Prices**:
+   - Location, square footage, number of bedrooms, and proximity to amenities were identified as top predictors.
+   - Example: Houses in urban areas consistently showed higher prices.
+
+2. **Year-on-Year Trends**:
+   - Clear trends observed in the housing market over the years, with fluctuations influenced by economic factors.
+
+3. **Predictive Insights**:
+   - Our machine learning model predicts house prices with high accuracy, enabling better planning for buyers and sellers.
+
+---
+
+🖥️ Screenshots & Visuals
+
+- **Power BI Dashboard**
+  - Interactive dashboard for analyzing housing data by location, features, and trends.
+
+---
+
+📈 R Analysis
+
+- **Feature Importance Plot**:
+- **Model Accuracy**:
+   - Our predictive model achieved a high accuracy rate, with an R² of 0.9845 and an RMSE of $5,200.
+
+---
+
+🔧 How to Run This Project?
+
+**Option 1: Explore Power BI Dashboard**
+
+1. Download the PowerBI_Dashboard.pbix file.
+2. Open it in Power BI Desktop.
+3. Interact with the visuals and filters to explore the data.
+
+**Option 2: Run the R Scripts**
+
+1. Clone this repository:
