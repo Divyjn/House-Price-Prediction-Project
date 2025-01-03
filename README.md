@@ -95,7 +95,7 @@ Our predictive model achieved a high accuracy rate, with an **R² of 0.9845** an
 ### Option 2: Run the R Scripts
 1. Clone this repository:  
    ```bash
-   git clone [Insert Your Repository Link Here]
+   git clone https://github.com/Divyjn/House-Price-Prediction-Project
 
 2. Open RStudio and load the scripts from the R_Shiny folder.
 
