@@ -1,4 +1,4 @@
-# House Price Prediction Project using R and Power BI
+# 📊House Price Prediction Project using R and Power BI
 
 Welcome to our House Price Prediction Project! 🌟 This repository contains an interactive project that predicts house prices using R for statistical analysis and Power BI for data visualization.
 
