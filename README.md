@@ -89,7 +89,7 @@ Our predictive model achieved a high accuracy rate, with an **R² of 0.9845** an
    ```bash
    git clone [Insert Your Repository Link Here]
 
-2. Open RStudio and load the scripts from the  ```bash 
+2. Open RStudio and load the scripts from the 
 R_Shiny folder.
 
 3. Install the required R packages:
