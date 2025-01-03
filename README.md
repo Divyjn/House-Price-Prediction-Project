@@ -96,11 +96,11 @@ install.packages(c("ggplot2", "randomForest", "caret", "shiny"))
 
 # 🤝 Contributors
 
-👤 Divy Jain  
+## 👤 Divy Jain  
 Role: Data Analysis, Predictive Modeling, Documentation  
 https://www.linkedin.com/in/divy-jain-845175256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app | LinkedIn
 
-👤 Gaurav Sharma  
+## 👤 Gaurav Sharma  
 Role: Data Visualization, Dashboard Design  
 GitHub | LinkedIn
 
