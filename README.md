@@ -27,6 +27,15 @@ We aim to provide insights into housing market trends, identify influential fact
 # 📂 Project Structure
 
 Here's what you'll find in this repository:
+House-Price-Prediction
+├── PowerBI_Dashboard.pbix         # Power BI file with dashboards
+├── R_Shiny                        # R scripts for analysis and modeling
+│   ├── web_app.R                  # Shiny app
+│   ├── predictive_modeling.R      # Machine learning models
+│   ├── feature_importance.R       # Feature importance analysis
+├── Data                           # Sample dataset
+├── Images                         # Images for dashboards and README
+├── README.md                      # Documentation (this file)
 
 📂 House-Price-Prediction
 ├── 📊 PowerBI_Dashboard.pbix         # Power BI file with interactive dashboards
