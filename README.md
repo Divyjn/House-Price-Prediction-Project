@@ -30,12 +30,13 @@ Here's what you'll find in this repository:
 
 📂House-Price-Prediction-Project  
 │  
-├── R_Shiny  
-│   ├── web_app.R                 # Shiny app  
+├── 📂R_Shiny  
+│   ├── web_app.R                 
+# Shiny app  
 │   ├── predictive_modeling.R     # Machine learning models  
 │   ├── feature_importance.R      # Feature importance analysis  
 │  
-├── PowerBI_Dashboard.pbix        # Power BI file with dashboards  
+├── 📊PowerBI_Dashboard.pbix        # Power BI file with dashboards  
 ├── Data                          # Sample dataset  
 ├── Images                        # Images for dashboards  
 ├── README.md                     # Documentation
