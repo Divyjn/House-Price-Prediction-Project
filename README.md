@@ -71,14 +71,16 @@ Here's what you'll find in this repository:
 # 🖥️ Screenshots & Visuals
 
 ## 📊 Power BI Dashboard
-![Sample Dashboard](https://via.placeholder.com/900x500?text=House+Price+Prediction+Dashboard)
-*Interactive dashboard for analyzing housing data by location, features, and trends.*
+
+*Interactive dashboard for:![Screenshot 2024-11-18 170001](https://github.com/user-attachments/assets/9e8f45e3-c55b-47f9-93ec-6243457acc29)
+ analyzing housing data by location, features, and trends.*
 
 ---
 
 ## 📈 R Analysis
 **Feature Importance Plot:**  
-![Feature Importance Plot](https://via.placeholder.com/900x500?text=Feature+Importance+in+House+Prices)
+![Screenshot 2024-11-14 182446](https://github.com/user-attachments/assets/71820f91-4954-4e09-be8b-8de83b0875ef)
+
 
 **Model Accuracy:**  
 Our predictive model achieved a high accuracy rate, with an **R² of 0.9845** and an **RMSE of $5,200**.
